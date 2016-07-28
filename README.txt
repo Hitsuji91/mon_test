@@ -1,1 +1,1 @@
-Création d'un fichier HTML simple qui renvoie sur une deuxième pas HTML
+Création d'un fichier HTML simple qui renvoie sur une deuxième page HTML
